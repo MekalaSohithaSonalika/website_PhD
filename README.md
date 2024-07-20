@@ -7,7 +7,7 @@ He has a wish to be a material professor at IIT Tirupati. So i made this for him
 The website does however contain a brief biography about my brother.
 
 ### How Webpage looks 
-![127 0 0 1_5500_index html](file:///Users/sohithasonalika/Desktop/krishna%20bro/index.html)
+<img width="1404" alt="Screenshot 2024-07-20 at 9 20 53 PM" src="https://github.com/user-attachments/assets/8ccec220-fe03-434b-85b7-b79768aca95b">
 
 ### Here is what it says:
 Professor Jeevanaboina received his BTech at IIIT Nuzvid and his PhD at IITGN.
