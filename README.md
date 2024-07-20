@@ -5,6 +5,7 @@ This is the webpage page that i created for my brother who is a phd student in m
 ### INTENSION BESIDE THIS
 He has a wish to be a material professor at IIT Tirupati. So i made this for him.
 The website does however contain a brief biography about my brother.
+Even in webpage it says that he is professor at IIT Tirupati but the bacground image i setup was IITGN because right now he is the student at IITGN. 
 
 ### How Webpage looks 
 <img width="1404" alt="Screenshot 2024-07-20 at 9 20 53 PM" src="https://github.com/user-attachments/assets/8ccec220-fe03-434b-85b7-b79768aca95b">
