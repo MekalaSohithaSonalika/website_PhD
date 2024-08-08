@@ -1,6 +1,6 @@
 # webpage
 ### Sample webpage
-This is the webpage page that i created for my brother who is a phd student in materials department at IITGN.
+This is the webpage page that i created for my senior who is a phd student in materials department at IITGN.
 
 ### ABOUT
 Sai Krishna Jeevanaboina, an IIT Tirupati material science professor, has a personal or professional website.
